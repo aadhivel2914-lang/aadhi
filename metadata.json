@@ -1,0 +1,6 @@
+{
+  "name": "Aadhipradhap - AI & Data Science Portfolio",
+  "description": "Interactive AI Digital Lab & Command Center portfolio for Aadhipradhap, AI & Data Science Developer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
